@@ -1,0 +1,11 @@
+﻿question_text,option_a,option_b,option_c,option_d,correct_answer
+What is an activity in android?,A) A single screen in an application with supporting java code,B) android package,C) android class,D) None of the above,A) A single screen in an application with supporting java code
+Among the following options choose the one for which Android is based on Linux.,A) All of the above,B) Portability,C) Security,D) Networking ,A) All of the above
+Among the below virtual machines choose the one which is used by the Android operating system,A) Dalvik Operating System,B) JVM,C) Simple Virtual Machine,D) None of the above,A) Dalvik Operating System
+Identify the language on which Android is based upon.,A) Java,B) C++,C) Python ,D) None of the above,A) Java
+All layout classes are the subclasses of,A) android.view.ViewGroup,B) android.view.View,C) android.widget,D) None of the above,A) android.view.ViewGroup
+ The full form of APK is,A) Android Package Unit,B) Android Phone Kit,C) Android Page Kit,D) Android Photo Kit,A) Android Package Unit
+What is manifest XML in android?,A) It has all the information about an application,B) It has some of the information about an application,C) It has all the information about activities in an application,D) None of the above,A) It has all the information about an application
+What is the use of a content provider in Android?,A) For sharing the data between applications,B) For Storing the data in the database,C) For sending the data from one application to another,D) None of the above,A) For sharing the data between applications
+While developing android application developers can test their apps on,A) All the above,B) Android Phone,C) Third-Party Emulator,D) Emulators in an Android SDK ,A) All the above
+"In android, mini activities are also known as",A) Fragments,B) Activity,C) Adapter,D) None of the above,A) Fragments
